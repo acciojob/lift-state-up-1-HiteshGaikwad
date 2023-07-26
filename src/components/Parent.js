@@ -19,7 +19,7 @@ const Parent=()=>{
                 </div>
                 <div className="modal" id={`${showModal}`}>
                     <h3>Modal Content</h3>
-                    <h4>This is the modal content.</h4>
+                    <p>This is the modal content.</p>
                 </div>
            </div>
         </div>
